@@ -2,23 +2,23 @@
 **Project Overview**
 This project is a simple form submission application for Techno International NewTown. The form collects user details and stores them in a MySQL database. Users can enter their name, age, gender, email, phone number, and queries. Upon successful submission, the form data is stored in the database and a confirmation message is displayed to the user.
 
-**Features**
+#Features
 User-friendly form interface
 Collects user information
 Stores data in a MySQL database
 Displays a confirmation message upon successful submission
 Basic validation to ensure all fields are filled out
-**Technologies Used**
+#Technologies #Used
 HTML
 CSS
 PHP
 MySQL
-**Prerequisites**
+##Prerequisites
 To run this project, you need to have the following software installed on your local machine:
 
 XAMPP (or any other local server with PHP and MySQL support)
 Web browser (e.g., Google Chrome, Firefox)
-**Setup Instructions**
+#Setup #Instructions
 1. Clone the repository:
  git clone https://github.com/yourusername/tech-tour-form.git
 2. Navigate to the project directory:
@@ -44,7 +44,7 @@ Web browser (e.g., Google Chrome, Firefox)
 6. Access the application:
 Open your web browser and navigate to `http://localhost/tech-tour-form/index.php`.
 
-**Contributing**
+#Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
 
 
